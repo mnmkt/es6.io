@@ -18,4 +18,4 @@ const fullName3 = names.map( name => {
 const fullName4 = names.map( name => {`${name} bos`});
 
 // no arguments
-const fullName5 = names.map( () => { `cool bos`});
+const fullName5 = names.map( () => {`cool bos`});
